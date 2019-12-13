@@ -1,0 +1,6 @@
+Explicação do fork1:
+
+Como mostra a imagem anexada (arvore_de_forks), o primeiro fork(143) origina um filho (144), então o pai e o filho printam seus pids e ppids na tela, ou seja, ocorrem 2 prints. Após isso ambos os processos originam um filho cada (146 e 145). Agora existem dois pais e dois filhos que printam seus pids e ppids na tela, resultando assim em 4 prints. Agora os 4 processos existentes (143, 144, 145, 146) originam cada um um filho (149, 150, 147, 148). Todos os processos printam na tela seus pids e ppids, como existem 4 pais e 4 filhos sao feitos 8 prints. Com isso são feitos 14 prints no total (2 no primeiro fork, 4 no segundo e 8 no terceiro).
+
+Explicação do fork2:
+A árvore do segundo algoritmo fica idêntica a do primeiro, porém como os prints são feitos apenas após o terceiro fork, aparecem apenas os 8 últimos prints na tela (sinalizados com (3) na imagem fork1.png).

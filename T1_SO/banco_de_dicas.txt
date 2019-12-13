@@ -1,0 +1,19 @@
+Bjarne Stroustrup: Gosto do meu código elegante e eficiente. A lógica deve ser direta para dificultar o encobrimento de bugs, as dependências mínimas para facilitar a manuntenção, o tratamento de erro completo de acordo com uma estratégia clara e o desempenho próximo do mais eficiente de modo a não incitar as pessoas a tornarem o código confuso com otimizações sorrateiras. O código limpo faz vem apenas uma coisa.
+
+Grady Booch: Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo de desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas.
+
+Bjarne Stroustrup: Eu sempre desejei que o meu computador fosse tão fácil de usar quanto o meu telefone. Meu desejo se tornou realidade pois eu não consigo mais usar o meu telefone.
+
+Linus Torvalds: Falar é fácil. Mostre-me o código.
+
+Dijkstra: A arte de programar consiste na arte de organizar e dominar a complexidade.
+
+Martin Fowler: Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.
+
+Bill Gates: Medir o progresso de um programa por linhas de código é como medir o processo de montagem de um avião pelo peso.
+
+Café: Programadores são ferramentas para converter cafeína em código.
+
+Eric S. Raymond: O estudo da ciência da computação não consegue transformar qualquer um em um excelente programador, da mesma forma que o estudo de tintas e pincéis não transforma qualquer um em um excelente pintor.
+
+Vidiu Platon: Não me interessa se roda na sua máquina! Nós não estamos entregando a sua máquina!
